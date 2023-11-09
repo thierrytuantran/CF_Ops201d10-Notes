@@ -18,3 +18,11 @@
 * [Read09](https://github.com/tt11223/CF_Ops201d10-Notes/wiki/seattle%E2%80%90ops%E2%80%90201d10:-Read-09)
 
 * [Read10](https://github.com/tt11223/CF_Ops201d10-Notes/wiki/seattle%E2%80%90ops%E2%80%90201d10:-Read-10)
+
+* [Read11](https://github.com/tt11223/CF_Ops201d10-Notes/wiki/seattle%E2%80%90ops%E2%80%90201d10:-Read-11)
+
+* [Read12](https://github.com/tt11223/CF_Ops201d10-Notes/wiki/seattle%E2%80%90ops%E2%80%90201d10:-Read-12)
+
+* [Read13](https://github.com/tt11223/CF_Ops201d10-Notes/wiki/seattle%E2%80%90ops%E2%80%90201d10:-Read-13)
+
+* [Read14](https://github.com/tt11223/CF_Ops201d10-Notes/wiki/seattle%E2%80%90ops%E2%80%90201d10:-Read-14)
